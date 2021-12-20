@@ -3,9 +3,17 @@ NEWS-ContDataQC
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2021-10-25 13:53:57
+    #> Last Update: 2021-12-20 08:47:06
 
 # Version History
+
+## v2.0.6.9008
+
+2021-12-20
+
+-   fix: Duplicate entry in config file
+    -   Updated all versions in package and shiny folders
+    -   Chlorophylla spike thresholds duplicated
 
 ## v2.0.6.9007
 
